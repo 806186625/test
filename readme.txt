@@ -49,7 +49,6 @@ git reset HEAD <file>(readme.txt)
 删除文件：
 git rm readme.txt
 
-工作区不在了，可以
 
 
 
