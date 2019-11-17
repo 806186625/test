@@ -1,7 +1,7 @@
 初始化配置：
 git config -- global user.name "806186625"
 git config --global user.email "806186625@qq.com"
-
+git 
 初始化仓库：
 git init 
 添加：
@@ -48,10 +48,6 @@ git reset HEAD <file>(readme.txt)
 
 删除文件：
 git rm readme.txt
-
-
-
-
 
 
 
