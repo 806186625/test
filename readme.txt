@@ -51,7 +51,7 @@ git rm readme.txt
 
 
 
-git what you dont want
+git what you like want
 
 
 
